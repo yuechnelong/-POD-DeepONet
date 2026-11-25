@@ -1,0 +1,4 @@
+﻿response,candidate,validation_relative_L2,member_indices
+surface,GlobalQuadraticResidual_seed2026103103,0.0056126274084444,[0]
+volume,GlobalQuadraticResidual_seed2026103103,0.0153259068784964,[0]
+stress,GlobalQuadraticResidual_ensemble3,0.1703085513551955,"[1, 2, 0]"

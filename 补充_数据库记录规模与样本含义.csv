@@ -1,0 +1,4 @@
+﻿split,independent_geometries,surface_records,base_domain_records,extra_domain_records,total_condition_query_records
+train,84,2064384,404880,129024,2598288
+validation,18,442368,86760,0,529128
+test,18,442368,86760,0,529128

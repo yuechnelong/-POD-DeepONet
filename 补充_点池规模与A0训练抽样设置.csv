@@ -1,0 +1,4 @@
+﻿query_type,pool_size_per_case,batch_points_per_selected_case,batch_sampling
+surface,24576,192,96 global + 96 active region
+domain_train,6356,384,"96 each: whole, near cavity, near interface, near face"
+domain_validation_test,4820,0,held-out evaluation; not used in training

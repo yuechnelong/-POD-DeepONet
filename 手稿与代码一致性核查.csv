@@ -1,0 +1,7 @@
+﻿item,manuscript_value,code_or_source_value,unit,finding
+Abstract surface RMSE,0.0197,0.01969255079529188,mm,与报告精度一致
+Abstract volume RMSE,0.0622,0.0621981950169318,mm,与报告精度一致
+Table 3 peak error mean,0.062,0.057197829285466316,mm,手稿均值不同；逐工况值一致，按18行平均应约0.057
+Table 3 volume RMSE mean,0.062,0.0621981950169318,mm,与报告精度一致；勿与相邻峰值误差均值混淆
+Section 3.3 training augmentation,1536.0,0.0,points/case,当前12.0 POD训练脚本使用固定网格；1536加密点属于旧A0流程
+Section 4 training response groups,2.0,3.0,groups,原始训练损失含surface/displacement/stress；手稿重点讨论前两组
